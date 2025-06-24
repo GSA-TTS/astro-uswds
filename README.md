@@ -1,6 +1,6 @@
 # GSA-TTS Astro USWDS Starter Template
 
-This is a variation of the an Astro `create-astro` template using U.S. Web Design System v 3.0 (USWDS) and is focused on providing developers a starter template and reference implementation for Federalist/Cloud.gov Pages websites.
+This is a variation of the Astro `create-astro` template using U.S. Web Design System v 3.0 (USWDS) and is focused on providing developers a starter template and reference implementation for Federalist/Cloud.gov Pages websites.
 
 This project strives to be compliant with requirements set by 21st Century IDEA Act. The standards require that a website or digital service:
 
