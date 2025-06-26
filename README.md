@@ -1,6 +1,6 @@
 # GSA-TTS Astro USWDS Starter Template
 
-This is a variation of the Astro `create-astro` template using U.S. Web Design System v3.0 (USWDS), focused on providing developers a starter template and reference implementation for Cloud.gov Pages websites.
+This is a variation of the an Astro `create-astro` template using U.S. Web Design System v 3.0 (USWDS) and is focused on providing developers a starter template and reference implementation for Federalist/Cloud.gov Pages websites.
 
 This project strives to be compliant with requirements set by 21st Century IDEA Act. The standards require that a website or digital service:
 
@@ -14,10 +14,10 @@ allows for user customization; and
 is mobile-friendly.
 
 ## Contributing
-Bug reports and pull requests are welcome on GitHub at https://github.com/gsa-tts/astro-uswds. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/gsa-tts/rails-template. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the code of conduct.
 
 ## Code of conduct
-Everyone interacting in the GSA-TTS' codebases, issue trackers, chat rooms and mailing lists is expected to follow the code of conduct.
+Everyone interacting in the 18F Rails Template project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the code of conduct.
 
 ## Astro info
 
