@@ -21,10 +21,10 @@ pnpm-debug.log*
 .idea/
 
 # ignore vscode dir
-.vscode/*
+.vscode/
 
 # ignore site build output
-_site/*
+_site/
 
 # ignore most of /public 
 # b/c uswds puts its stuff there
