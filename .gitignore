@@ -1,3 +1,5 @@
+# For Astro projects
+
 # generated types
 .astro/
 
@@ -25,6 +27,7 @@ pnpm-debug.log*
 
 # ignore site build output
 _site/
+dist/
 
 # ignore most of /public 
 # b/c uswds puts its stuff there
